@@ -1,0 +1,18 @@
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\bin\Debug\CodeShifter.exe
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\bin\Debug\CodeShifter.pdb
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Debug\CodeShifter.csprojResolveAssemblyReference.cache
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Debug\CodeShifter.frm_Main.resources
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Debug\CodeShifter.Properties.Resources.resources
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Debug\CodeShifter.csproj.GenerateResource.Cache
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Debug\CodeShifter.exe
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Debug\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Debug\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Debug\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\bin\Debug\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\bin\Debug\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Debug\CodeShifter.csprojResolveAssemblyReference.cache
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Debug\CodeShifter.frm_Main.resources
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Debug\CodeShifter.Properties.Resources.resources
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Debug\CodeShifter.csproj.GenerateResource.Cache
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\Debug\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\Debug\CodeShifter.pdb

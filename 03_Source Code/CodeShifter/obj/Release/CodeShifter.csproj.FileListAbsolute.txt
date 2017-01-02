@@ -1,0 +1,20 @@
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\bin\Release\CodeShifter.exe
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\bin\Release\CodeShifter.pdb
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.frm_Main.resources
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.Properties.Resources.resources
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.csproj.GenerateResource.Cache
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.exe
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.pdb
+C:\Keygen\01_Prior\09_Bruteforcer\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.csprojResolveAssemblyReference.cache
+C:\Keygen\02_Task 6\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.exe
+C:\Keygen\02_Task 6\CodeShifter 2.0\CodeShifter\CodeShifter\obj\Release\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Release\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Release\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\bin\Release\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\bin\Release\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Release\CodeShifter.csprojResolveAssemblyReference.cache
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Release\CodeShifter.frm_Main.resources
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Release\CodeShifter.Properties.Resources.resources
+C:\Keygen\04_Public_CodeShifter\CodeShifter\CodeShifter\obj\Release\CodeShifter.csproj.GenerateResource.Cache
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\Release\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\Release\CodeShifter.pdb

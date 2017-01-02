@@ -1,0 +1,10 @@
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\bin\x86\Release\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\bin\x86\Release\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\x86\Release\CodeShifter.csprojResolveAssemblyReference.cache
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\x86\Release\CodeShifter.frm_Main.resources
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\x86\Release\CodeShifter.Properties.Resources.resources
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\x86\Release\CodeShifter.csproj.GenerateResource.Cache
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\x86\Release\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\CodeShifter - Copy\CodeShifter\obj\x86\Release\CodeShifter.pdb
+C:\Keygen\04_Public_CodeShifter\Release\03_Source Code\CodeShifter\obj\x86\Release\CodeShifter.exe
+C:\Keygen\04_Public_CodeShifter\Release\03_Source Code\CodeShifter\obj\x86\Release\CodeShifter.pdb
