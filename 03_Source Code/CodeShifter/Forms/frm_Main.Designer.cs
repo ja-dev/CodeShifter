@@ -1049,7 +1049,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(7, 229);
+            this.label7.Location = new System.Drawing.Point(7, 241);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(796, 50);
             this.label7.TabIndex = 16;
@@ -1075,7 +1075,7 @@
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
             this.richTextBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
-            this.richTextBox1.Size = new System.Drawing.Size(886, 187);
+            this.richTextBox1.Size = new System.Drawing.Size(886, 201);
             this.richTextBox1.TabIndex = 13;
             this.richTextBox1.Text = resources.GetString("richTextBox1.Text");
             // 
