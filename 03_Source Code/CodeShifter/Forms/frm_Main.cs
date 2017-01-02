@@ -575,5 +575,13 @@ namespace CodeShifter
         {
             MessageBox.Show("To be able to generate a valid .key.enc file, you'll need to provide the master key used and the target device serial.\n\nYou can decrypt a .key.enc file, too. But, both these operations require you to extract/specify the private and public key from the assembly (server.exe). I don't know if they used the same private/public key for everyone's binaries, so in case they did, you can just use the keys I extracted from my assembly", "Help");
         }
+
+        private void cmd_Important_Click(object sender, EventArgs e)
+        {
+            {
+                MessageBox.Show("THIS WILL NOT FIND THE SOLUTION IF COMPILED/RUN IN 64 BITS. COMPILE AND RUN X86 ONLY! ", "IMPORTANT");
+            }
+
+        }
     }
 }

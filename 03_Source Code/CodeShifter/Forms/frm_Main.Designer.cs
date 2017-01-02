@@ -116,6 +116,7 @@
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.label13 = new System.Windows.Forms.Label();
+            this.cmd_Important = new System.Windows.Forms.Button();
             this.statusStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabControl1.SuspendLayout();
@@ -233,6 +234,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.cmd_Important);
             this.tabPage1.Controls.Add(this.cmd_MKC_Help);
             this.tabPage1.Controls.Add(this.cmd_Start);
             this.tabPage1.Controls.Add(this.cmd_Stop);
@@ -1089,6 +1091,16 @@
             this.label13.TabIndex = 1;
             this.label13.Text = "J.Anish Dev";
             // 
+            // cmd_Important
+            // 
+            this.cmd_Important.Location = new System.Drawing.Point(152, 328);
+            this.cmd_Important.Name = "cmd_Important";
+            this.cmd_Important.Size = new System.Drawing.Size(46, 43);
+            this.cmd_Important.TabIndex = 15;
+            this.cmd_Important.Text = "!";
+            this.cmd_Important.UseVisualStyleBackColor = true;
+            this.cmd_Important.Click += new System.EventHandler(this.cmd_Important_Click);
+            // 
             // frm_Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -1228,6 +1240,7 @@
         private System.Windows.Forms.Button cmd_MKG_Help;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Button cmd_Important;
     }
 }
 

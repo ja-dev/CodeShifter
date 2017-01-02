@@ -1268,15 +1268,6 @@
         e4/1j/ff1976Vnz6X8P/ABZpP+oaT/rU/vXn0mPx/n1//9k=
 </value>
   </data>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>Dedicated to:
-My parents for for everything.
-My brother Jerry, for inspiring me and everything ever.
-Leslie, Prithvi,Vigesh: For staying by my side in 2015.
-My undergrad friends: For believing in me during that time. Iffat: Never forgotten.
-Ivar: You truly mean much to me, man.
-Avinash,Gunjan,Kalyani,Naveen,Rochelle,Vineeth,Vivek: For being good friends here at UF.</value>
-  </data>
   <data name="textBox5.Text" xml:space="preserve">
     <value>The National Security Agney (NSA) holds a CodeBreaker Challenge each year. Participants from across the world get to reverse engineering and "break" software during tasks in the challenge. 
 
@@ -3245,6 +3236,15 @@ This year (2016), there were 6 tasks. This program was coded to solve tasks of t
   </data>
   <data name="txt_MKC_SecretKeyHex.Text" xml:space="preserve">
     <value>0x35,0x47,0x41,0x51,0x55,0x36,0x4B,0x49,0x35,0x34,0x50,0x48,0x57,0x57,0x43,0x44,0x58,0x57,0x48,0x49,0x4D,0x4C,0x49,0x4B,0x34,0x35,0x36,0x41,0x57,0x46,0x5A,0x33,0x55,0x48,0x34,0x43,0x59,0x5A,0x4A,0x50,0x4C,0x53,0x52,0x4B,0x32,0x55,0x4C,0x42,0x45,0x34,0x57,0x51</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Dedicated to:
+My parents for for everything.
+My brother Jerry, for inspiring me and everything ever.
+Leslie, Prithvi,Vigesh: For staying by my side in 2015.
+My undergrad friends: For believing in me during that time. Iffat: Never forgotten.
+Ivar: You truly mean much to me, man.
+Avinash,Gunjan,Kalyani,Naveen,Rochelle,Vineeth,Vivek: For being good friends here at UF.</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
