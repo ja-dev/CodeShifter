@@ -5,10 +5,8 @@
 The National Security Agney (NSA) holds a CodeBreaker Challenge each year. Participants from across the world get to reverse engineering and "break" software during tasks in the challenge.   This year (2016), there were 6 tasks. This program was coded to solve tasks of the challenge. You can modify parameters according to variables used in your binaries. 
 
 For use in Tasks:
-Task 3 - Disarm Capability, Part 1.
-Task 4 - Disarm Capability, Part 2.
-Task 5 - Disarm Capability, Part 3.
-Task 6 - Hardware Destruction.
+
+Task 3,Task 4,Task 5, and Task 6.
 
 The code (at places) might not be too "clean", I'm sorry for that.
 After all, I made this program just to "get things done",
