@@ -1,4 +1,4 @@
-# CodeShifter 1.0
+# CodeShifter 1.01
 
 ![alt tag](https://github.com/hexinx/CodeShifter/blob/master/04_ScreenShots/1.jpg)
 
