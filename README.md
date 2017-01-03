@@ -19,6 +19,8 @@ for every one else's binaries. But, in case they did, you can simply use the one
 Note that you'll HAVE TO COMPILE/RUN in 32 bits ONLY! Something goes wrong in the brute-force procedure when you do it otherwise (atleast on Windows 10).
 I haven't figured out what it is yet, and I don't intend to do so. If you do figure it out, do let me know!
 
+I'd love to hear from you if: You just want to say hi, if you found this useful, if you use my code, if you solved task 6, or if you want to team up for 2017's challenge ;)
+
 Again, I'd love to heard from you!
 ~J.A Dev 
 
