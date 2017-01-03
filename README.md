@@ -15,9 +15,9 @@ You'll HAVE TO COMPILE/RUN in 32 bits ONLY! Something goes wrong in the brute-fo
 
 # Usage
 You'll need to copy the binaries and key files to the application start-up directory before you can use it.
-I've included the private/public keys that were present in my binaries. I'm not sure if NSA used the same keys
-for every one else's binaries. But, in case they did, you can simply use the ones I've provided.
+I've included the private/public keys that were present in my binaries. I'm not sure if NSA used the same keys for every one else's binaries. But, in case they did, you can simply use the ones I've provided.
 
+# Outro ;)
 I'd love to hear from you if: You just want to say hi, if you found this useful, if you use my code, if you solved task 6, or if you want to team up for 2017's challenge ;)
 
 Again, I'd love to heard from you!
