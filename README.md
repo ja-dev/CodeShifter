@@ -2,7 +2,7 @@
 
 ![alt tag](https://github.com/hexinx/CodeShifter/blob/master/04_ScreenShots/1.jpg)
 
-The National Security Agney (NSA) holds a CodeBreaker Challenge each year. Participants from across the world get to reverse engineering and "break" software during tasks in the challenge.   This year (2016), there were 6 tasks. This program was coded to solve tasks of the challenge (NSA Codebreaker challenge 2016). You can modify parameters according to variables used in your binaries. 
+The National Security Agney (NSA) holds a Code Breaker Challenge each year. Participants from across the world get to reverse engineering and "break" software during tasks in the challenge.   This year (2016), there were 6 tasks. This program was coded to solve tasks of the challenge (NSA Codebreaker challenge 2016). You can modify parameters according to variables used in your binaries. 
 
 For use in solution/answers of Tasks:
 
